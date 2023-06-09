@@ -65,3 +65,29 @@ nav ul li ul li ul {
 nav ul li:hover > ul {
   display: initial;
 }
+.tyth {
+  width: 50%;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  top: 190px;
+  background: #eeeded;
+}
+.rar {
+  width: 30%;
+  transition: 0.5s;
+}
+.rar:hover {
+  transform: scale(1.1);
+}
+footer {
+  width: 100%;
+  height: 90px;
+  position: relative;
+  text-align: center;
+  top: 240px;
+  background: #292270bd;
+}
+h5 {
+  color: #ffffff;
+}
