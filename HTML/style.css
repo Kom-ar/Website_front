@@ -65,6 +65,13 @@ nav ul li ul li ul {
 nav ul li:hover > ul {
   display: initial;
 }
+.Number {
+  color: #a6a6a6;
+  font-size: 40px;
+  font-weight: 200;
+  height: 40px;
+  left: 180px;
+}
 .tyth {
   width: 50%;
   margin: 0 auto;
