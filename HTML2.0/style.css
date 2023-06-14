@@ -125,3 +125,12 @@ h5 {
 .photo-ocomn {
   padding-inline: initial;
 }
+
+.play {
+  width: 50%;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  top: 230px;
+  background: #c1b5b5;
+}
