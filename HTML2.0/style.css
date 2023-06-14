@@ -97,4 +97,31 @@ footer {
 }
 h5 {
   color: #ffffff;
+
+}
+.osn-poki {
+  color: #281ac6;
+  font-style: oblique;
+}
+
+.tath {
+  width: 50%;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  top: 190px;
+  background: #eeeded;
+}
+
+.photo-ocom {
+  width: 700px;
+  padding-top: 30px;
+}
+
+.info-kam {
+  color: #a6a6a6;
+}
+
+.photo-ocomn {
+  padding-inline: initial;
 }
