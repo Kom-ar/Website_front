@@ -134,3 +134,14 @@ h5 {
   top: 230px;
   background: #c1b5b5;
 }
+
+
+.gallery img {
+  margin: 5px;
+  border: 5px solid #252525;
+}
+
+a.photo:hover img {
+  border: 3px solid #034279;
+}
+
